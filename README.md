@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/68438464/141470129-2ecba18f-7eba-42e9-9277-844daf14ab90.png)
+
 # aws-emr 
 
 Desafio DIO ECOSSISTEMA DE BIG DATA NA AWSP
