@@ -4,7 +4,7 @@ Desafio DIO ECOSSISTEMA DE BIG DATA NA AWSP
 
 O desafio faz parte do BootCamp Cloud Data Engineer:
 
-O projeto consiste em efetuar uma analide de dados utilizando AWS EMR e Python.
+O projeto consiste em efetuar uma analise de dados utilizando AWS EMR e Python.
 
 Etapas do Projeto: 
 Criação de um data lake S3 com a estrutura de pastas: data (upload de arquivo para o bucket),output e temp
