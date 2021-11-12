@@ -1,20 +1,19 @@
-# Ecossistema de Big Data na AWS
+# Desafio DIO ECOSSISTEMA DE BIG DATA NA AWSP
 
-Nesse repositório estão armazenados os arquivos resultados do processo de análise de dados.
+O desafio faz parte do BootCamp Cloud Data Engineer:
 
-Utilizando AWS EMR e Python nesse reposítório há os arquivos de configuração e execução de análise de dados.
+O projeto utiliza AWS EMR e Python com a execução de análise de dados.
 
 Etapas do Projeto: 
 Criar um data lake S3 com a estrutura de pastas: data (upload de arquivo para o bucket),output e temp
 
-Criar um cluster pelo MrJob e não pelo console
-Infraestrutura como código
+Criar um cluster pelo MrJob e não pelo console - Infraestrutura como código
 
 Criar chave SSH e efetuar o Download .pem file
 Configurar MrJob com ID e chave secreta da AWS
 
 Algoritmo de análise de palavras com instalação de bibliotecas e map-reduce-count
 
-Configurar Mrjob
+Configuração do MrJob e Execução do Algoritmo
 
-Executar Algoritmo
+Nesse repositório estão armazenados os arquivos resultados do processo de análise de dados.
